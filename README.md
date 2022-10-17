@@ -1,2 +1,3 @@
-# robertjn64.github.io
-Base github pages site
+# RobertJN64
+
+Creating projects in python and c++ for ML, robotics, and embedded hardware.
